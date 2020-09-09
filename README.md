@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing websites and mobile applications
-- 🎓 &nbsp; Did CS50's Harvard University on EdX
+- 🎓 &nbsp; Did Harvard University's CS50 on EdX
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 
 <h3>🛠 Tech Stacks</h3>
