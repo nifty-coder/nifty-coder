@@ -20,8 +20,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="surya-kasibhatla-portfolio.web.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:surya.kasibhatla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://surya-kasibhatla-portfolio.web.app">Visit my Website</a>
+<a href="mailto:surya.kasibhatla@gmail.com">Email Me</a>
 </p>
 
 ⭐️ From [nifty-coder](https://github.com/nifty-coder/)
+
