@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Surya Kasibhatla.</h2>
-<p>I am 12 years old and also started a YouTube channel named Nifty Coder. Here is the <a href="https://www.youtube.com/channel/UCN14MY4VkGEyM1IvfLLgNXQ">link</a></p>
+<p>I am 13 years old and also started a YouTube channel named Nifty Coder. Here is the <a href="https://www.youtube.com/channel/UCN14MY4VkGEyM1IvfLLgNXQ">link</a></p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing websites and mobile applications
